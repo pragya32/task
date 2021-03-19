@@ -1,0 +1,35 @@
+[
+{
+"name": "GoSTOPS",
+"type": "package",
+"location": "delhi",
+"days": 15,
+"image_url": ["https://picsum.photos/id/237/200/300", "https://picsum.photos/seed/200/300?grayscale", "https://picsum.photos/seed/picsum/200/300"],
+"nights": 14,
+"amount": 6498,
+"discount_percent": "16.92",
+"discounted_price": 5398.53
+},
+{
+"name": "GoSTOPS",
+"type": "package",
+"location": "delhi",
+"image_url": ["https://picsum.photos/seed/200/300?grayscale", "https://picsum.photos/seed/picsum/200/300",
+"https://picsum.photos/id/237/200/300"],
+"days": 15,
+"nights": 14,
+"amount": 6498,
+"discount_percent": "16.92",
+"discounted_price": 5398.53
+},
+{
+"name": "GoSTOPS",
+"type": "package",
+"image_url": [],
+"days": 15,
+"nights": 14,
+"amount": 6498,
+"discount_percent": "16.92",
+"discounted_price": 5398.53
+}
+]
